@@ -35,6 +35,7 @@ I am currently in the final year of a double diploma program in Computer Science
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI/CD-2EB67B?style=for-the-badge&logo=ci&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
