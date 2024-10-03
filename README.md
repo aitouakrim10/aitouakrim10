@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in the final year of a double diploma program in Computer Science Engineering and pursuing a Master's (M2) in Cybersecurity. My interests lie in cybersecurity, embedded systems, software and hardware security, and I am excited to explore new challenges in these areas.
+I am currently in the final year of a double diploma program in Computer Science Engineering and second year a Master's student (M2) in Cybersecurity. My interests lie in cybersecurity, embedded systems, software and hardware security, and I am excited to explore new challenges in these areas.
 
 
 ## 🌐 Socials:
