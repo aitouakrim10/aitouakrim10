@@ -5,7 +5,7 @@ I am currently in the final year of a double diploma program in Computer Science
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-ouakrim-abdelmajid-70b79a24a/)
 
-[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](./docs/HTB%20Academy%20Student%20Transcript.pdf)
+[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](./HTB.Academy.Student.Transcript.pdf)
 
 
 # 💻 Tech Stack:
