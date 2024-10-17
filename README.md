@@ -48,15 +48,16 @@ I am currently in the final year of a double diploma program in Computer Science
 ---
 [![](https://visitcount.itsvg.in/api?id=aitouakrim10&icon=6&color=0)](https://visitcount.itsvg.in)
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aitouakrim10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
-<!--
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aitouakrim10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aitouakrim10&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitouakrim10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+<!--
+![](https://github-readme-stats.vercel.app/api?username=aitouakrim10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aitouakrim10&theme=dark&hide_border=false)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aitouakrim10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 < ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
