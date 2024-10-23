@@ -7,11 +7,11 @@ I am currently in the final year of a double diploma program in Computer Science
 &nbsp;
 [![Resume fr](https://img.shields.io/badge/Resume-0077B3?style=for-the-badge&logo=pdf&logoColor=red)](./resume_fr.pdf)
 
-### Hack the  Box profile :
+### Hack the  Box profile:
 ---
 [![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](./HTB.Academy.Student.Transcript.pdf)
 
-### Root me profile :
+### Root me profile:
 ---
 ![alt text](./images/rootme.png)
 
