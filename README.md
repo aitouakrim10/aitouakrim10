@@ -13,7 +13,7 @@ I am currently in the final year of a double diploma program in Computer Science
 
 ### Root me profile:
 ---
-![alt text](./images/rootme.png)
+![alt text](./images/root.png)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
