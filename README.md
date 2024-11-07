@@ -25,6 +25,7 @@ I am currently in the final year of an engineering diploma program in Computer S
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679E0?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-7A1B20?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-6B8E23?style=for-the-badge&logo=ghidra&logoColor=white)
+![nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3B44B2?style=for-the-badge&logo=owasp&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3E8E3A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
