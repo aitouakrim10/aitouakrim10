@@ -5,13 +5,15 @@ I am currently in the final year of an engineering diploma program in Computer S
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-ouakrim-abdelmajid-70b79a24a/)
 &nbsp;
+[![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black)](https://x.com/ait_ouakrim_)
+
 [![Resume fr](https://img.shields.io/badge/Resume-0077B3?style=for-the-badge&logo=pdf&logoColor=red)](./resume_fr.pdf)
 
-### Hack the  Box Academy profile:
+### Hack the  Box Academy profile (rank : top 5%):
 ---
 [![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](./HTB.Academy.Student.Transcript.pdf)
 
-### Root me profile:
+### Root me profile (rank : top 10 %):
 ---
 ![alt text](./images/root.png)
 
