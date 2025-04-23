@@ -1,23 +1,37 @@
 # 💫 About Me:
-I am currently in the final year of an engineering diploma program in Computer Science Engineering and second year a Master's student (M2) in Cybersecurity. My interests lie in cybersecurity, embedded systems, software and hardware security, and I am excited to explore new challenges in these areas.
+Passionate cybersecurity professional specialized in offensive security. Hands-on experience in network, Active Directory, and web application penetration testing , with ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats and secure complex environments.
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-ouakrim-abdelmajid-70b79a24a/)
 &nbsp;
-[![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black)](https://x.com/ait_ouakrim_)
+[![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black)](https://x.com/zenon_xvx)
 
 [![Resume fr](https://img.shields.io/badge/Resume-0077B3?style=for-the-badge&logo=pdf&logoColor=red)](./resume_fr.pdf)
 
-### Hack the  Box Academy profile (rank : top 5%):
----
-[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](./HTB.Academy.Student.Transcript.pdf)
 
-### Root me profile (rank : top 10 %):
+### Hack the Box rank : Pro Hacker
+[![Pro Hacker Badge](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](https://www.hackthebox.com/achievement/badge/1641080/216)
+
+### Root Me profile :
 ---
-![alt text](./images/root.png)
+[![Root Me profile](https://img.shields.io/badge/Root%20Me-3D3D3D?style=for-the-badge&logo=root-me&logoColor=green)](https://www.root-me.org/aitouaka)
+
+### Hack the  Box Academy profile (rank : top 1%):
+---
+[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=red)](./HTB.Academy.Student.Transcript.pdf)
+
+
+
+
 
 # 💻 Tech Stack:
+![IDA](https://img.shields.io/badge/IDA-1E2A47?style=for-the-badge&logo=ida&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-512BD4?style=for-the-badge&logo=bloodhound&logoColor=white)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-3A3335?style=for-the-badge&logo=crackmapexec&logoColor=white)
+![NetMapExec](https://img.shields.io/badge/NetMapExec-0E5A77?style=for-the-badge&logo=netmapexec&logoColor=white)
+![PingCastle](https://img.shields.io/badge/PingCastle-1B1C1D?style=for-the-badge&logo=pingcastle&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -33,7 +47,6 @@ I am currently in the final year of an engineering diploma program in Computer S
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
