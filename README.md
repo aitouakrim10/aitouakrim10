@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate cybersecurity professional specialized in offensive security. Hands-on experience in network, Active Directory, and web application penetration testing , with ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats and secure complex environments.
+Passionate cybersecurity professional . Hands-on experience in network, Active Directory, and web application penetration testing , with ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats and secure complex environments.
 
 
 
