@@ -1,31 +1,28 @@
 # 💫 About Me:
 Passionate cybersecurity professional . Hands-on experience in network, Active Directory, and web application penetration testing , with ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats and secure complex environments.
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-ouakrim-abdelmajid-70b79a24a/)
 &nbsp;
 [![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black)](https://x.com/zenon_xvx)
-
+&nbsp;
 [![Resume fr](https://img.shields.io/badge/Resume-0077B3?style=for-the-badge&logo=pdf&logoColor=red)](./resume_fr.pdf)
-
+&nbsp;
+[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](https://app.hackthebox.com/profile/1641080)
+&nbsp;
+[![Root Me profile](https://img.shields.io/badge/Root%20Me-3D3D3D?style=for-the-badge&logo=root-me&logoColor=green)](https://www.root-me.org/aitouaka)
 
 ### Hack the Box rank : Pro Hacker
-[![Pro Hacker Badge](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](https://www.hackthebox.com/achievement/badge/1641080/216)
-
-### Root Me profile :
----
-[![Root Me profile](https://img.shields.io/badge/Root%20Me-3D3D3D?style=for-the-badge&logo=root-me&logoColor=green)](https://www.root-me.org/aitouaka)
+[![Pro Hacker Badge](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box-badge&logoColor=green)](https://www.hackthebox.com/achievement/badge/1641080/216)
 
 ### Hack the  Box Academy profile (rank : top 1%):
 ---
-[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=red)](./HTB.Academy.Student.Transcript.pdf)
+[![Hack The Box Academy](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=red)](./HTB.Academy.Student.Transcript.pdf)
 
 
 
 
-
+<!--
 # 💻 Tech Stack:
 ![IDA](https://img.shields.io/badge/IDA-1E2A47?style=for-the-badge&logo=ida&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-512BD4?style=for-the-badge&logo=bloodhound&logoColor=white)
@@ -59,7 +56,7 @@ Passionate cybersecurity professional . Hands-on experience in network, Active D
 
 ---
 
-<!--
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitouakrim10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
