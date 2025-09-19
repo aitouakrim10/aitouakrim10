@@ -1,5 +1,5 @@
 # 💫 About Me:
-assionate about cybersecurity and development. Hands-on experience in network, Active Directory, and web application penetration testing, as well as scripting and developing tools in Python, Java, C, and JavaScript. Ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats, build useful tools, and secure complex environments.
+Passionate about cybersecurity and development. Hands-on experience in network, Active Directory, and web application penetration testing, as well as scripting and developing tools in Python, Java, C, and JavaScript. Ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats, build useful tools, and secure complex environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-ouakrim-abdelmajid-70b79a24a/)
