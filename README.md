@@ -1,25 +1,10 @@
-# 💫 About Me:
-Passionate about cybersecurity and development. Hands-on experience in network, Active Directory, and web application penetration testing, as well as scripting and developing tools in Python, Java, C, and JavaScript. Ongoing practice on platforms like Hack The Box and Root Me. Eager to tackle real-world threats, build useful tools, and secure complex environments.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-ouakrim-abdelmajid-70b79a24a/)
 &nbsp;
-[![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black)](https://x.com/zenon_xvx)
-&nbsp;
-[![Hack The Box profile](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=green)](https://app.hackthebox.com/profile/1641080)
-&nbsp;
-[![Root Me profile](https://img.shields.io/badge/Root%20Me-3D3D3D?style=for-the-badge&logo=root-me&logoColor=green)](https://www.root-me.org/aitouaka)
-&nbsp;
-[![Hack The Box Academy](https://img.shields.io/badge/HTB%20Academy%20-3D3D3D?style=for-the-badge&logo=hack-the-box&logoColor=red)](./HTB.Academy.Student.Transcript.pdf)
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=github&logoColor=white)](https://aitouakrim10.github.io/)
 
-<!--
-### Hack the Box rank : Pro Hacker
-[![Pro Hacker Badge](https://img.shields.io/badge/Hack%20The%20Box-3D3D3D?style=for-the-badge&logo=hack-the-box-badge&logoColor=green)](https://www.hackthebox.com/achievement/badge/1641080/216)
 
-### Hack the  Box Academy profile (rank : top 1%):
 ---
-
-
 
 
 # 💻 Tech Stack:
@@ -54,8 +39,6 @@ Passionate about cybersecurity and development. Hands-on experience in network, 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-[![Resume fr](https://img.shields.io/badge/Resume-0077B3?style=for-the-badge&logo=pdf&logoColor=red)](./resume_fr.pdf)
-&nbsp;
 
 # 📊 GitHub Stats:
 
